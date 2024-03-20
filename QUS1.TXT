@@ -1,0 +1,30 @@
+Write a blog on Difference between HTTP1.1 vs HTTP2:-
+
+HTTP1.1:-
+
+      1.HTTP1.1 is the First usable version created in 1997
+
+      2. less fast loading and less efficient compared to new version
+
+      3. Developers Cannot change the loading speed and  does not have control over prioritisation 
+
+      4. Datas Can be sent only once at a time 
+
+      5.A content is sent to client only if they ask.
+
+      6. HTTP message can be compressed small for easy loading. HTTP/1.1 Compressing  is less part very low than HTTP 2.
+
+
+    HTTP2:-
+
+        1. It is created in 2015, a new version of HITP.
+
+        2. It is faster and more efficient
+
+        3. Developers  have control of actual page loading which part should be loading first 
+
+        4. Multiple datas can be sent at a time 
+
+        5. Content is sent to a client before they asks.
+
+        6. For Compressing the message HTTP2 is using the advanced Compression method called HPACK which eliminates some bytes and make small  message for fast loading

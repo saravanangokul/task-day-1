@@ -1,0 +1,19 @@
+Write a blog about objects and its internal representation in Javascript:-
+
+     1. Object is building blocks for modern Javascript
+
+     2. It is the collection of related data in the form of "key value"
+
+     3. The key values are properties and methods of the object 
+
+     4. For example, if cup is taken as an object then its properties is color, design, weight, a material  is made up of etc.
+
+     5. objects are also called associative arrays because each property is associated with string value.  
+
+     6. Properties values can be set by using a bracket notation.
+
+     7. Creating the object javascript throug two methods. First is by object liberal and second is by creating Instance of object directly 
+
+     8. Property and value of a object is seperated by colon (:). This is object literal method. Example:- frame: "YYY"
+
+     9. New keyword is used to create object is instance of object directly. Example: Var emp = new object();
